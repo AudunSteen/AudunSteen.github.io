@@ -82,8 +82,8 @@ analytics:
 author:
   name             : " Audun Steen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "anus"
+  bio              : "Studerer mitt tredje semester ved UIA"
+  location         : "Kristiansand"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/audun-steen-35098720a/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
