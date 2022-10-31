@@ -23,8 +23,6 @@ Interesser
 
 
 
-
-
 Kilder
 ------
 github.com/academicpages
