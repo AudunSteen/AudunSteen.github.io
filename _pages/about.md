@@ -19,12 +19,7 @@ Interesser
 - Nintendo switch(mariokart)
 - Fredagstaco og gullrekka 
 
-Nøkkelkvalifikasjoner  
-------
-- Leder av NITO studentene ved UIA
-- Utadvendt
-- 
-- Nordic Door - prosjekt 
+
 
 
 
