@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Audun Steen "
+title                    : "Audun Steen / Portfolio"
 title_separator          : "-"
 name                     : &name "Audun Steen "
 description              : &description "personal description"
