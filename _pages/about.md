@@ -8,15 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Jeg er en målrettet og utadvendt student som jakter ny teknologi og informasjon gjennom studieløpet mitt. Jeg har ambisjoner om å lære meg front- og backend utvikling iløpet av studieløpet. Liker å jobbe i teams med ulik kompetanse for å lære nye konsepter.Når det gjelder å spessialisering får jeg læringsutbytte av selvstendig arbeid. Er klar for å lande mitt første internship og få en fot innenfor arbeidssektoren i IT. 
+Jeg er en målrettet og utadvendt student som jakter ny teknologi og informasjon gjennom studieløpet mitt. Jeg har ambisjoner om å lære meg front- og backend utvikling i løpet av studieløpet. Liker å jobbe i teams med ulik kompetanse for å lære nye konsepter. Når det gjelder å spesialisering får jeg læringsutbytte av selvstendig arbeid. Er klar for å lande mitt første internship og få en fot innenfor arbeidssektoren i IT. 
 
 
-Agenda 
-------
-- Leder for NITO studentene i Kristiansand 
-- Prosjektarbeid, webutvikling for Nordic Door
-- Holder på med å lære meg C#, .Net og Java 
-- Drar på utveksling til Tsjekkia 4. semester
+
 
 
 Interesser
@@ -28,6 +23,13 @@ Interesser
 - Nintendo switch (mariokart)
 - Fredagstaco og gullrekka 
 
+
+Agenda 
+------
+- Leder for NITO studentene i Kristiansand.
+- Prosjektarbeid, webutvikling for Nordic Door
+- Holder på med å lære meg C#, .Net og Java 
+- Drar på utveksling til Tsjekkia 4. semester
 
 
 
