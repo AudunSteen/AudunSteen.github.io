@@ -19,7 +19,7 @@ Interesser
 - UIA sitt hockeylag
 - Nybegynner klatrer
 - F1, Liverpool og sport generelt 
-- Koding med kaffe og lofi beats på øret
+- Podkast
 - Nintendo switch (mariokart)
 - Fredagstaco og gullrekka 
 
