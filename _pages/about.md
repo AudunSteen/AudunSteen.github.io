@@ -14,22 +14,23 @@ Jeg er en målrettet og utadvendt student som jakter ny teknologi og informasjon
 
 
 
-Interesser
-------
-- UIA sitt hockeylag
-- Nybegynner klatrer
-- F1, Liverpool og sport generelt 
-- Podkast
-- Nintendo switch (mariokart)
-- Fredagstaco og gullrekka 
-
-
 Agenda 
 ------
 - Leder for NITO studentene i Kristiansand
 - Prosjektarbeid, webutvikling for Nordic Door
 - Holder på med å lære meg C#, .Net og Java 
-- Drar på utveksling til Tsjekkia 4. semester
+- Drar på utveksling i 4. semester til Tsjekkia, Praha
+
+
+Interesser
+------
+- UIA sitt hockeylag
+- Knekke bjørnunger  
+- F1, Liverpool og sport generelt 
+- Podkast
+- Nintendo switch (mariokart)
+- Fredagstaco og gullrekka 
+
 
 
 
