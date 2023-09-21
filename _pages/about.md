@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Jeg er en målrettet og utadvendt student som jakter ny teknologi og informasjon gjennom studieløpet mitt. Jeg har ambisjoner om å få en bred kompetanse innen UX-design, front- og backend utvikling. Liker å jobbe i teams med ulik kompetanse for å lære nye konsepter og spille hverandre gode. Er klar for å lande mitt første internship og få en fot innenfor arbeidssektoren i IT. 
+Jeg er en målrettet og utadvendt student som jakter ny teknologi og informasjon gjennom studieløpet mitt. Jeg har ambisjoner om å få en bred kompetanse innen ledelse, cybersikkerhet, front- og backend utvikling. Jeg trives spesielt godt med å samarbeide i team med ulik kompetanse, da det gir meg muligheten til å lære nye konsepter og bidra til felles suksess. Jeg har nå ansatt i praksis som IT - konsulent ved UIA og er forbredt på å ta steget videre.
 
 
 
@@ -16,16 +16,19 @@ Jeg er en målrettet og utadvendt student som jakter ny teknologi og informasjon
 
 Agenda 
 ------
-- Leder for NITO studentene i Kristiansand
-- Prosjektarbeid, webutvikling for Nordic Door
-- Holder på med å lære meg C#, .Net og Java 
-- Drar på utveksling i 4. semester til Tsjekkia, Praha
+- Siste året av bachelor innen IT og informasjonssystemer.
+- Leder for NITO studentene i Kristiansand. Ansvar for å organisere og engasjere studentmiljøet i teknologifagene.
+- Prosjektarbeid, webutvikling for Nordic Door. 
+- Holder på med å lære meg PHP, .Net og Java.
+- Praksisplass som IT konsulent ved Universitetet i Agder.
+- Forrige semester var jeg på utveksling ved Prague University og Economics and Business.
+
 
 
 Interesser
 ------
 - UIA sitt hockeylag
-- Knekke bjørnunger  
+- Knekke bjørnunger i godt selskap
 - F1, Liverpool og sport generelt 
 - Podkast
 - Nintendo switch (mariokart)
