@@ -28,6 +28,7 @@ Agenda
 Interesser
 ------
 - UIA sitt hockeylag
+- Pushe direkte i main branch
 - Knekke bjørnunger i godt selskap
 - F1, Liverpool og sport generelt 
 - Podkast
