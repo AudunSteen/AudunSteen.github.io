@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Jeg er en målrettet og utadvendt student som jakter ny teknologi og informasjon gjennom studieløpet mitt. Jeg har ambisjoner om å få en bred kompetanse innen ledelse, cybersikkerhet, front- og backend utvikling. Jeg trives spesielt godt med å samarbeide i team med ulik kompetanse, da det gir meg muligheten til å lære nye konsepter og bidra til felles suksess. Jeg har nå ansatt i praksis som IT - konsulent ved UIA og er forbredt på å ta steget videre.
+Jeg er en målrettet og utadvendt student som jakter ny teknologi og informasjon gjennom studieløpet mitt. Jeg har ambisjoner om å få en bred kompetanse innen ledelse, cybersikkerhet, front- og backend utvikling. Jeg trives spesielt godt med å samarbeide i team med ulik kompetanse, da det gir meg muligheten til å lære nye konsepter og bidra til felles suksess. Jeg er for øyeblikket i en praksisstilling som IT-konsulent ved UIA og er klar for å ta det neste skrittet i karrieren.
 
 
 
